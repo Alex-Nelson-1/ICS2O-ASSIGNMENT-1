@@ -8,19 +8,19 @@ body {
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #ffffff;
+  background-color: #fff;
   text-align: center;
 }
 
 h2 {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #ffffff;
+  background-color: #fff;
   text-align: center;
 }
 
 p {
   background-color: #fff700;
-  color: #000000;
+  color: #000;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
